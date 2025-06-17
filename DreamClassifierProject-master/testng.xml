@@ -1,0 +1,7 @@
+<suite name="Dream Classification Suite">
+    <test name="Classify Dreams with AI">
+        <classes>
+            <class name="com.dreamportal.tests.DreamClassificationTest"/>
+        </classes>
+    </test>
+</suite>
